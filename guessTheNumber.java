@@ -1,6 +1,5 @@
 // OIB SIP JAVA TASK 2
-// -------------------
-// Java program for the above approach
+// ------------------- RAHUL DUTTA
 import java.util.Scanner;
 
 public class guessTheNumber {
@@ -35,7 +34,6 @@ public class guessTheNumber {
 
         System.out.println("The number was " + number);
       }
-	  
     }
   }
 
